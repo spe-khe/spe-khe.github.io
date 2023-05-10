@@ -532,7 +532,9 @@ kbd {
 .inner {
     position: relative;
     padding: 40px;
-    margin: 0 auto
+    margin: 0 auto;
+    display: grid;
+    justify-content: center;
 }
 
 
